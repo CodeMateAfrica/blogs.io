@@ -1,2 +1,2 @@
-# blogs.io
-Basic blog site
+# Blogs.io
+**This is a test case blog post**
