@@ -14,7 +14,7 @@ Welcome to `blogs.io`, a simple yet effective blog post website script designed 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/blogs.io.git
+   git clone https://github.com/CodeMateAfrica/blogs.io.git
    cd blogs.io
 
 2.Install dependencies:
