@@ -1,7 +1,9 @@
 # blogs.io
 ##Author
-![Joseph Lahai Kanu](public/images/joseph.jpg)
 **JOSEPH LAHAI KANU**
+
+![Joseph Lahai Kanu](public/images/joseph.jpg)
+---
 Welcome to `blogs.io`, a simple yet effective blog post website script designed to get you up 
 and running with your own blog in no time!
 
