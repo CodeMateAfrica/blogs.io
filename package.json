@@ -4,7 +4,7 @@
   "description": "code with joe",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.mjs"
+    "start": "concurrently \"nodemon app.mjs \" \"nodemon api-sever.mjs\""
   },
   "keywords": [
     "web",
