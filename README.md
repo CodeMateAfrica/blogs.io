@@ -1,6 +1,9 @@
 # blogs.io
+##Author
+![Joseph Lahai Kanu](public/images/joseph.jpg)
 
-Welcome to `blogs.io`, a simple yet effective blog post website script designed to get you up and running with your own blog in no time!
+Welcome to `blogs.io`, a simple yet effective blog post website script designed to get you up 
+and running with your own blog in no time!
 
 ## Features
 
@@ -18,7 +21,7 @@ Welcome to `blogs.io`, a simple yet effective blog post website script designed 
    cd blogs.io
 
 2.Install dependencies:
-  npm install
+  **npm install**
 
 3. Setup the environment variables:
    Create a .env file in the root directory and add the following:
